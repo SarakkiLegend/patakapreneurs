@@ -7,7 +7,7 @@ const PRODUCTS = [
   { id: 1, category: "🌸 Flower Pots", name: "Ashoka", mrp: 750, price: 300 },
   { id: 2, category: "🌸 Flower Pots", name: "Colour Koti", mrp: 1250, price: 500 },
   { id: 3, category: "🌸 Flower Pots", name: "Colour Koti Deluxe", mrp: 1625, price: 650 },
-  { id: 4, category: "🌸 Flower Pots", name: "Tri Colour", mrp: 1625, price: 650, rec: true },
+  { id: 4, category: "🌸 Flower Pots", name: "Tri Colour Flower Pot", mrp: 1625, price: 650, rec: true },
 
   // ---------- ✨ Sparklers ----------
   { id: 5, category: "✨ Sparklers", name: "15 cm Sparklers - Pack of 5", mrp: 600, price: 300 },
